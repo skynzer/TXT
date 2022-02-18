@@ -1,0 +1,4 @@
+name: Dmitry Suntsov 
+age: 25
+pets: 0
+salary: 1500
