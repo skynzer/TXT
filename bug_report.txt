@@ -1,1 +1,2 @@
-
+bug_0: "Send" button doesn't work
+bug_1: Pictures in mobile version of site are displayed incorrectly
