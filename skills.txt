@@ -1,0 +1,2 @@
+soft_skills: communicative skills, team work, English
+hard_skills: Python, JavaScript, bash, git, Postman, Charles

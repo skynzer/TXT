@@ -1,0 +1,5 @@
+movie: Green Elephant
+serial: "Big bang theory"
+food: meat
+season: summer
+country: Ukraine
